@@ -18,7 +18,6 @@ rightArray = np.array(rightArray)
 # for i in range(0, 1000):
 #     difference = int(leftArray[i]) - int(rightArray[i])
 #     distance += abs(difference)
-
 # print(distance)
 
 # Part 2
